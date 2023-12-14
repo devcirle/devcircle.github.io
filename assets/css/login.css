@@ -42,7 +42,7 @@ body {
 .label-margin {
   align-self: flex-start;
   margin-bottom: 0.25rem;
-  margin-left: 1.625rem;
+  margin-left: 3.5rem;
 }
 
 .input-bottom {
@@ -66,7 +66,7 @@ body {
   position: absolute;
   display: block;
   color: darken(#ededed, 10%);
-  left: 2.4rem;
+  left: 4.2rem;
   width: 0.75rem;
 }
 
