@@ -52,12 +52,12 @@ body {
 
 .input-btns button {
   border-style: none;
-  border-radius: 0.938rem;
+  border-radius: 1.406rem;
   font-size: 0.875rem;
   font-style: normal;
   font-weight: 500;
   width: 21.188rem;
-  height: 2.344rem;
+  height: 2.813rem;
   background-color: #235c1e;
   color: white;
 }
