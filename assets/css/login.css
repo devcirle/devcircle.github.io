@@ -12,7 +12,7 @@ body {
 }
 
 .logo-container img {
-  margin-top: 5.813rem;
+  margin-top: 5.875rem;
   width: 4rem;
   height: 4rem;
 }
@@ -28,35 +28,26 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 1.813rem;
+  margin-top: 3.75rem;
   /* margin-left: 2.063rem; */
   /* margin-right: 2.063rem; */
   /* max-width: 15.875rem; */
 }
 
-.input-fields label {
-  font-size: 0.625rem;
-  font-weight: 400rem;
-}
-
 .input-bottom {
-  margin-bottom: 1.125rem;
+  margin-bottom: 0.625rem;
 }
 
 .input-fields input {
   width: 21.188rem;
-  height: 3.125rem;
+  height: 3.75rem;
   border-radius: 5px;
   border-width: 1px;
   border-style: solid;
   border-color: #ebebf0;
-  font-size: 0.75rem;
+  font-size: 1rem;
   font-weight: 400;
   padding-left: 1.5rem;
-}
-
-.input-btns {
-  margin-top: 2.5rem;
 }
 
 .input-btns button {
@@ -74,5 +65,5 @@ body {
 .input-btns a {
   font-size: 0.688rem;
   font-weight: 400;
-  margin-top: 0.5rem;
+  margin-top: 0.625rem;
 }
