@@ -52,8 +52,6 @@ body {
   border-color: #ebebf0;
   font-size: 0.75rem;
   font-weight: 400;
-  transition: 0.2s ease-out;
-  color: darken(#ededed, 30%);
   padding-left: 1.5rem;
 }
 
